@@ -1,4 +1,4 @@
-# JavaScript fundamentaal Beginners friendly.
+# JavaScript Fundamental Beginners Friendly.
 
 ## Introduction to javaScript
 <img width="1680" alt="Screenshot 2023-03-30 at 08 50 33" src="https://user-images.githubusercontent.com/46353220/228767408-a875262c-83ca-42c5-b255-989a32def17c.png">
